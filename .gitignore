@@ -1,14 +1,7 @@
-custom_nodes/
 *.png
 *.jpg
-*.log
+*.jpeg
 *.pyc
+*.log
 *.zip
-*.png
-*.jpg
-*.jpeg
-*safetensors
-*.png
-*.jpg
-*.jpeg
 *safetensors
