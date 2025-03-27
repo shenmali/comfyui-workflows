@@ -8,3 +8,7 @@ custom_nodes/
 *.jpg
 *.jpeg
 *safetensors
+*.png
+*.jpg
+*.jpeg
+*safetensors
