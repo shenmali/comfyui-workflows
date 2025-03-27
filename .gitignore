@@ -1,0 +1,10 @@
+custom_nodes/
+*.png
+*.jpg
+*.log
+*.pyc
+*.zip
+*.png
+*.jpg
+*.jpeg
+*safetensors
